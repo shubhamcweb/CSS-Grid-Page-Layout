@@ -178,7 +178,9 @@ COLLAGE
 
 .collage {
     width: 80%;
+    max-width: 560px;
     margin: 40px auto;
+    
     display: grid;
     grid-template-rows: 1fr;
     grid-template-columns: 1fr 40px 1fr 40px 1fr;
@@ -227,11 +229,6 @@ BREAKPOINTS
     nav {
         display: block !important;
     }
-
-    .collage {
-        margin: 40px;
-        max-width: 500px;
-    }
 }
 
 @media screen and (min-width: 1024px) {
@@ -252,10 +249,6 @@ BREAKPOINTS
         max-width: 300px;
         border-top: none;
         border-left: 1px solid rgba(0, 0, 0, 0.1);
-    }
-
-    .collage {
-        margin: 40px auto;
     }
 }
 
