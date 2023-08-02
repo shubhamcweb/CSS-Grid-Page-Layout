@@ -3,11 +3,11 @@
 
 ## Overview
 
-This project showcases a modern and visually stunning responsive webpage built using cutting-edge web technologies. Leveraging the power of CSS Grid and Flexbox, along with JavaScript, it provides a seamless user experience across devices. The webpage features an innovative collapsible navigation bar that gracefully adapts to mobile interfaces, making it a standout project for internship applications.
+This project showcases a modern and visually pleasing responsive mobile-first webpage built leveraging the power of CSS Grid, Flexbox and JavaScript providing a seamless user experience across devices of all sizes. The webpage features a collapsible navigation bar that gracefully adapts to mobile interfaces, improving the user experience for mobile users.
 
 ## Features
 
-- **Responsive Layout**: The entire webpage is designed to be fully responsive, ensuring a flawless user experience on all devices, from desktops to mobiles.
+- **Responsive Layout**: The entire webpage is designed to be fully responsive, ensuring a flawless user experience on all devices, from mobiles to desktops.
 
 - **Interactive Collapsible Nav Bar**: The navigation bar elegantly collapses on mobile devices when users click on the intuitive menu button, enhancing usability.
 
@@ -15,7 +15,7 @@ This project showcases a modern and visually stunning responsive webpage built u
 
 - **Customizable Design**: The clean and well-organized codebase allows for easy customization of colors, fonts, and layouts, enabling developers to tailor it to their specific needs.
 
-- **Technologically Advanced**: This project demonstrates the successful integration of CSS Grid, Flexbox, and JavaScript, showcasing your proficiency in the latest web technologies.
+- **Technologically Advanced**: This project demonstrates the successful integration of CSS Grid, Flexbox, and JavaScript, showcasing my proficiency in web development.
 
 ## Technologies Used
 
